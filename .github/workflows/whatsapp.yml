@@ -2,7 +2,7 @@ name: WhatsApp Daily Reminder
 
 on:
   schedule:
-    - cron: '30 3 * * *'   # Runs daily at 9:00 AM IST
+    - cron: '30 0 * * *'
   workflow_dispatch:
 
 jobs:

@@ -76,7 +76,7 @@ TO_NUMBER = os.getenv("TWILIO_TO")
 
 .
 .
-.for this check the repo and dont forget to star this repo it helps
+.for this check the repo and dont forget to star this repo if it helps
 .
 .
 .

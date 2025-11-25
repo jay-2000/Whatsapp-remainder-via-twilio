@@ -112,6 +112,11 @@ docker run \
 -e TWILIO_TO=whatsapp:+91xxxxxxxxxx \
 your_dockerhub_username/whatsapp-remainder
 ```
+OR this(windows version)
+```
+docker run -e TWILIO_SID=ACxxxxx -e TWILIO_TOKEN=xxxxx -e TWILIO_FROM=whatsapp:+1XXXXXXXXXX -e TWILIO_TO=whatsapp:+91XXXXXXXXXX whatsapp-reminder
+
+```
 
 ## we are DevOps Ready🧠
 

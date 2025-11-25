@@ -142,4 +142,4 @@ You now have:
 
 ## 🤝 Contributing
 
-- Feel free to fork and modify this project.
+- Feel free to fork and modify this project.since i myself will review your PR so it may take time.

@@ -96,6 +96,32 @@ TWILIO_TOKEN    |	Your Twilio Auth Token
 TWILIO_FROM |	whatsapp:+1xxxxxxxxxx
 TWILIO_TO   |	whatsapp:+91XXXXXXXXXX
 
+## Via docker Test Your Image from Anywhere
+
+On any machine:
+```
+docker pull your_dockerhub_username/whatsapp-remainder
+```
+
+Then Run:
+```
+docker run \
+-e TWILIO_SID=ACxxxxx \
+-e TWILIO_TOKEN=xxxxx \
+-e TWILIO_FROM=whatsapp:+1xxxxxxxxxx \
+-e TWILIO_TO=whatsapp:+91xxxxxxxxxx \
+your_dockerhub_username/whatsapp-remainder
+```
+
+## we are DevOps Ready🧠
+
+You now have:
+
+- ✅ Cloud-ready container
+- ✅ Secure secrets handling
+- ✅ Reusable deployment
+- ✅ Docker Hub public image
+
 ## ⚠️ Important Notes
 
 

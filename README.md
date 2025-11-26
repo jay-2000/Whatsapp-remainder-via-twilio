@@ -6,7 +6,7 @@ The script runs fully in the cloud, so it works even if your phone or laptop is 
 
 ---
 
-## 🚀 Features
+## 🚀 Features :
 
 - ✅ Sends WhatsApp messages automatically
 - ✅ Runs on a schedule using GitHub Actions
